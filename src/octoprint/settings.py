@@ -240,6 +240,8 @@ default_settings = {
         "snapshot": None,
         "snapshotTimeout": 5,
         "snapshotSslValidation": True,
+        "snapshotAuthUser" : "",
+        "snapshotAuthPass" : "",
         "ffmpeg": None,
         "ffmpegThreads": 1,
         "ffmpegVideoCodec": "libx264",
